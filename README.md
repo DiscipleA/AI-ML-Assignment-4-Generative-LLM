@@ -79,7 +79,7 @@ For each run, the notebook:
 
     Clone or download the repository.
     Open JupyterLab IDE.
-    Navigate to the local repository and open 'Linear-Regression_by_DmitriySC.ipynb'.
+    Navigate to the local repository and open 'Generative-LLM_by_DmitriySC.ipynb'.
 
 📹 Demo
 
